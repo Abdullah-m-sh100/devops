@@ -1,0 +1,11 @@
+{
+    "name": "Messages",
+    "alias": "messages",
+    "description": "Tenant internal messaging module.",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Messages\\Providers\\MessagesServiceProvider"
+    ],
+    "files": []
+}

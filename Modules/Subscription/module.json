@@ -1,0 +1,11 @@
+{
+    "name": "Subscription",
+    "alias": "subscription",
+    "description": "Central plans and company subscription management module.",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Subscription\\Providers\\SubscriptionServiceProvider"
+    ],
+    "files": []
+}

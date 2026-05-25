@@ -1,0 +1,11 @@
+{
+    "name": "Companies",
+    "alias": "companies",
+    "description": "Central company and tenant management module.",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Companies\\Providers\\CompaniesServiceProvider"
+    ],
+    "files": []
+}
